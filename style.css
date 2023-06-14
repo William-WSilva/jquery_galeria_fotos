@@ -59,7 +59,7 @@ ul{
 ul li{
     max-width: 25%;
     position: relative;
-    max-height: 150px;
+    max-height: 280px;
     overflow-y: hidden;
     margin: 5px;
     border-radius: 3px;
