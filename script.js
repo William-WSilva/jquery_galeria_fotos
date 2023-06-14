@@ -22,9 +22,9 @@ $("form").on("submit", function(evento) {
             </div>
         </li>
     `);
-    
+
     $(novo_Item).appendTo("ul");
     $(novo_Item).fadeIn(1000);
-    $("input_URL_nova_imagem").val("");
+    $("#input_URL_nova_imagem").val("");
 
 })
